@@ -33,6 +33,19 @@ Contains complete customer activity logs:
 * Discount %
 * Promotion date
 
+  **🛠️ What I Did**
+
+* Cleaned & transformed data (date/time, price, categories, duplicates).
+* Created a data model linking Sales & Promotion tables.
+* Built DAX measures (Revenue, Conversion Rate, AOV, Potential Revenue, Promotion Impact).
+
+Designed dashboards for:
+* KPI Overview
+* Pricing & Promotion
+* Category/Brand Insights
+* Search Behavior
+* Conversion Funnel & Channel/State analysis
+
   **📊 Dashboards Included**
 
 ✔ 1. KPI Overview
@@ -54,3 +67,9 @@ Shows: Brand Search • Category Search • Search → Purchase
 ✔ 5. Conversion Funnel
 View → Cart → Purchase Funnel by State/Channel/Brand
 📸 Screenshot: screenshots/funnel.png
+
+**🎯 Value to Business**
+
+* Better decision-making for pricing, promotions, categories, and marketing.
+* Improved understanding of user behavior and conversion patterns.
+* Identified high-performing and underperforming brands/categories.
