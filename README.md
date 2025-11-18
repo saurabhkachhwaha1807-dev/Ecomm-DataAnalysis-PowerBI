@@ -49,7 +49,7 @@ Designed dashboards for:
   **📊 Dashboards Included**
 
 ✔ 1. High level metrics
-📸 [view screenshot]()
+📸 [view screenshot](https://github.com/saurabhkachhwaha1807-dev/Ecomm-DataAnalysis-PowerBI/blob/main/Screenshot%202025-11-18%20111121.png)
 
 ✔ 2. Pricing & Promotion Analysis
 📸 [view screenshot](https://github.com/saurabhkachhwaha1807-dev/Ecomm-DataAnalysis-PowerBI/blob/main/Screenshot%202025-11-18%20111157.png)
