@@ -12,6 +12,9 @@ It includes data cleaning, modeling, KPI creation, and building interactive dash
 * Search behavior
 * Conversion funnel
 
+### case study questions
+[open pdf](https://github.com/saurabhkachhwaha1807-dev/Ecomm-DataAnalysis-PowerBI/blob/main/PowerBI%20Case%20Study.pdf)
+
 **📁 Datasets Used**
 
 1. Sales_Data_Ecommerce
