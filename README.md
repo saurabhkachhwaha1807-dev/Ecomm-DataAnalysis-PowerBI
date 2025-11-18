@@ -30,7 +30,7 @@ Contains complete customer activity logs:
 * User score
 * State
 
-2. Promotion Dataset[open](https://github.com/saurabhkachhwaha1807-dev/Ecomm-DataAnalysis-PowerBI/blob/main/Promotion.xlsx)
+2. Promotion Dataset [open](https://github.com/saurabhkachhwaha1807-dev/Ecomm-DataAnalysis-PowerBI/blob/main/Promotion.xlsx)
 
 * Promotion type
 * Product ID
