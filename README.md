@@ -54,7 +54,7 @@ Shows: Revenue • Orders • Users • Conversion Rate • Top Products/Brands
 
 ✔ 2. Pricing & Promotion Analysis
 Shows: Price Trends • Discount Impact • Promotion Uplift
-📸 [view screenshot]()
+📸 [view screenshot](https://github.com/saurabhkachhwaha1807-dev/Ecomm-DataAnalysis-PowerBI/blob/main/Screenshot%202025-11-18%20111157.png)
 
 ✔ 3. Category & Brand Performance
 Shows: Category Demand • Brand Preferences • Event Activity
