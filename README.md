@@ -58,7 +58,7 @@ Designed dashboards for:
 📸 [view screenshot](https://github.com/saurabhkachhwaha1807-dev/Ecomm-DataAnalysis-PowerBI/blob/main/Screenshot%202025-11-18%20111102.png)
 
 ✔ 4. Traffic Variations
-📸 [view screenshot]()
+📸 [view screenshot](https://github.com/saurabhkachhwaha1807-dev/Ecomm-DataAnalysis-PowerBI/blob/main/Screenshot%202025-11-18%20111112.png)
 
 ✔ 5.Brand/Categories Activities
 📸 [view screenshot]()
