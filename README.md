@@ -48,24 +48,19 @@ Designed dashboards for:
 
   **📊 Dashboards Included**
 
-✔ 1. KPI Overview
-Shows: Revenue • Orders • Users • Conversion Rate • Top Products/Brands
+✔ 1. High level metrics
 📸 [view screenshot]()
 
 ✔ 2. Pricing & Promotion Analysis
-Shows: Price Trends • Discount Impact • Promotion Uplift
 📸 [view screenshot](https://github.com/saurabhkachhwaha1807-dev/Ecomm-DataAnalysis-PowerBI/blob/main/Screenshot%202025-11-18%20111157.png)
 
-✔ 3. Category & Brand Performance
-Shows: Category Demand • Brand Preferences • Event Activity
+✔ 3. Price Variation
 📸 [view screenshot]()
 
-✔ 4. Search Behavior
-Shows: Brand Search • Category Search • Search → Purchase
+✔ 4. Traffic Variations
 📸 [view screenshot]()
 
-✔ 5. Conversion Funnel
-View → Cart → Purchase Funnel by State/Channel/Brand
+✔ 5.Brand/Categories Activities
 📸 [view screenshot]()
 
 **🎯 Value to Business**
