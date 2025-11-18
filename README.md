@@ -55,7 +55,7 @@ Designed dashboards for:
 📸 [view screenshot](https://github.com/saurabhkachhwaha1807-dev/Ecomm-DataAnalysis-PowerBI/blob/main/Screenshot%202025-11-18%20111157.png)
 
 ✔ 3. Price Variation
-📸 [view screenshot]()
+📸 [view screenshot](https://github.com/saurabhkachhwaha1807-dev/Ecomm-DataAnalysis-PowerBI/blob/main/Screenshot%202025-11-18%20111102.png)
 
 ✔ 4. Traffic Variations
 📸 [view screenshot]()
