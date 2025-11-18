@@ -32,3 +32,25 @@ Contains complete customer activity logs:
 * Product ID
 * Discount %
 * Promotion date
+
+  **📊 Dashboards Included**
+
+✔ 1. KPI Overview
+Shows: Revenue • Orders • Users • Conversion Rate • Top Products/Brands
+📸 Screenshot: screenshots/overview_dashboard.png
+
+✔ 2. Pricing & Promotion Analysis
+Shows: Price Trends • Discount Impact • Promotion Uplift
+📸 Screenshot: screenshots/pricing_promotion.png
+
+✔ 3. Category & Brand Performance
+Shows: Category Demand • Brand Preferences • Event Activity
+📸 Screenshot: screenshots/category_brand.png
+
+✔ 4. Search Behavior
+Shows: Brand Search • Category Search • Search → Purchase
+📸 Screenshot: screenshots/search_behavior.png
+
+✔ 5. Conversion Funnel
+View → Cart → Purchase Funnel by State/Channel/Brand
+📸 Screenshot: screenshots/funnel.png
