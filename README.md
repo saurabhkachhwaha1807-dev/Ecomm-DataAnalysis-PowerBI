@@ -17,7 +17,7 @@ It includes data cleaning, modeling, KPI creation, and building interactive dash
 
 **📁 Datasets Used**
 
-1. Sales_Data_Ecommerce
+1. Sales_Data_Ecommerce [open](https://github.com/saurabhkachhwaha1807-dev/Ecomm-DataAnalysis-PowerBI/blob/main/Sales_Data_Ecommerce.csv)
 Contains complete customer activity logs:
 
 * User ID, session ID
